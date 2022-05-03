@@ -1,0 +1,15 @@
+ A.txt
+ B.txt
+ dir1
+  dir2
+    E.txt
+  C.txt
+  D.txt
+ dir11
+  X.txt
+  dir22
+    Y.txt
+    Z.txt
+    dir33
+      AA.txt
+      BB.txt
